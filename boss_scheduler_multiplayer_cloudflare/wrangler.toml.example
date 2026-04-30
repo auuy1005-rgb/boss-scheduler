@@ -1,0 +1,7 @@
+name = "boss-scheduler"
+compatibility_date = "2026-04-30"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "boss-schedule-db"
+database_id = "貼上你的 D1 database_id"
